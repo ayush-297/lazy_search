@@ -1,6 +1,6 @@
 {
   "name": "lazysearch",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
     "groq-sdk": "^0.8.0"
   },
   "bin": {
-    "lazysearch": "./tool.js"
+    "lzs": "./tool.js"
   }
 }
